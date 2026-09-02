@@ -2,7 +2,7 @@
 
 Olá! Seja bem-vindo ao meu perfil no GitHub. 👋
 
-Sou **ROBSON**, estudante de **Desenvolvimento de Sistemas**, apaixonado por tecnologia, programação e criação de novos projetos.
+Sou **ROBSON**, estudante de **Desenvolvimento de Sistemas**, interessado em tecnologia, programação e criação de novos projetos.
 
 Este espaço foi criado para registrar minha evolução durante os estudos e compartilhar projetos desenvolvidos nas áreas de programação, desenvolvimento de sistemas, banco de dados e desenvolvimento de jogos.
 
@@ -17,7 +17,7 @@ Este espaço foi criado para registrar minha evolução durante os estudos e com
 🗄️ Estudando Banco de Dados e SQL
 📚 Aprendendo Git e GitHub para versionamento de projetos
 
-Meu objetivo é continuar desenvolvendo minhas habilidades e construir projetos cada vez mais completos e interessantes.
+Meu objetivo é continuar desenvolvendo minhas habilidades e construir projetos cada vez mais completos.
 
 ---
 
@@ -36,7 +36,7 @@ Atualmente estou estudando e utilizando tecnologias como:
 
 ---
 
-## 📁 Meus Projetos
+## 📁 Projetos
 
 Neste perfil você poderá encontrar projetos relacionados a:
 
@@ -57,8 +57,7 @@ Projetos desenvolvidos utilizando **Scratch**, explorando:
 Projetos envolvendo:
 
 * Modelagem de Banco de Dados
-* Modelos Conceituais
-* Modelos Lógicos
+* Modelos Conceituais e Lógicos
 * Criação de tabelas
 * Relacionamentos
 * Consultas SQL
@@ -73,17 +72,13 @@ Projetos focados na criação de páginas e sistemas utilizando tecnologias de d
 
 Estou construindo minha experiência na área de tecnologia passo a passo.
 
-Cada projeto publicado aqui representa uma nova etapa do meu aprendizado. 🚀
+Cada projeto representa uma nova etapa do meu aprendizado.
 
-```text
-Aprender → Praticar → Criar → Evoluir
-```
+**Aprender → Praticar → Criar → Evoluir**
 
 ---
 
 ## 🎯 Objetivos
-
-Meu objetivo é:
 
 * Aprimorar minhas habilidades em programação
 * Criar sistemas e aplicações
@@ -96,28 +91,15 @@ Meu objetivo é:
 
 ## 📚 Atualmente Estudando
 
-```text
 💻 Desenvolvimento de Sistemas
 🗄️ Banco de Dados
 🌐 Desenvolvimento Web
 📂 Git e GitHub
 🎮 Desenvolvimento de Jogos
 🧠 Lógica de Programação
-```
-
----
-
-## 📌 Repositórios
-
-Aqui você encontrará projetos desenvolvidos durante meus estudos e experiências com tecnologia.
-
-Novos projetos serão adicionados conforme eu avançar na minha jornada como desenvolvedor. 🚀
 
 ---
 
 ### 👨‍💻 ROBSON
 
 **Estudante de Desenvolvimento de Sistemas**
-
-> "A tecnologia está sempre evoluindo, e eu quero evoluir junto com ela." 💻🚀
-
